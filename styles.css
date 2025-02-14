@@ -2,12 +2,14 @@ html {
     min-height: 100%;
 }
 
-body {
-    background: 
-        linear-gradient(pink, white),
-        url("bg.png");
-    background-repeat: no-repeat, repeat;
-    background-size: cover, auto;
+.tile {
+  width: 20px;
+  height: 20px;
+  background: 
+    linear-gradient(pink, white),
+    url('bg.png');
+  background-size: cover;
+  background-repeat: repeat;
 }
 
 h1 {
