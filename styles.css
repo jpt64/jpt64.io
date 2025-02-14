@@ -4,7 +4,8 @@ html {
 
 body {
     background: linear-gradient(pink, white);
-    background-repeat: no-repeat;
+    background-image: url("bg.png");
+    background-repeat: repeat
 }
 
 h1 {
