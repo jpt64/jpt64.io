@@ -3,7 +3,7 @@ html {
 }
 
 background {
-    background-image: linear-gradient(white, pink);
+    background: linear-gradient(white, pink);
 }
 
 h1 {
