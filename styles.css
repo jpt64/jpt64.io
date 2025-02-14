@@ -2,8 +2,8 @@ html {
     min-height: 100%;
 }
 
-background {
-    background: linear-gradient(white, pink);
+body {
+  background: url('https://jpt64.github.io/letter/bg.png'), linear-gradient(pink, white);
 }
 
 h1 {
